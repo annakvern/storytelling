@@ -1,0 +1,2 @@
+//Sätt upp projektet likt dagens uppgift och skapa en funktion för varje "scen" i er berättelse som byter ut texten 
+//på sidan och vad som händer när man klickar på knapparna - dvs vilken scen som ska visas härnäst.
