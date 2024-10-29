@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(#074a1b, #a0e7ac);
+}
+
+header {
+  color: white;
+  font-size: 2rem;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+}
+
+i {
+  padding: 1.5rem;
+}
+
+.logotype {
+  font-family: "Playwrite GB S", cursive;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  background-color: #093921;
+  border-radius: 1rem;
+  color: #eefbf0;
+  margin-top: 2rem;
+  padding: 3rem;
+  width: 50vw;
+}
+
+h1 {  
+  font-family: "Montserrat", sans-serif;
+}
+
+ .welcome, .storyText{
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+button {
+  background-color: #eefbf0;
+  color:#093921;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  border: 0;
+  border-radius: 1rem;
+  padding: 1rem;
+
+}
+
+footer {
+  font-family: "Montserrat", sans-serif;
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+}
+
