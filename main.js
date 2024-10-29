@@ -18,66 +18,87 @@ function setupEventListeners() {
 }
 
 function storyBricksStart() {
-  
+  // firstOption -> storyDragonflyPower()
+  // secondOption -> storyGoblinPrank()
 }
 
 function storyDragonflyPower() {
-  
+  // firstOption -> storyMudSlope()
+  // secondOption -> storyKoiPower(1)
 }
 
 function storyGoblinPrank() {
-  
+  // firstOption -> storyKoiPower()
+  // secondOption -> storyCat()
 }
 
 function storyMudSlope() {
-  
+  // firstOption -> storyGoblinGameOver()
+  // secondOption -> storyPowerClover()
 }
 
 function storyKoiPower() {
-  
+  // firstOption -> storyPowerClover()
+  // secondOption -> storyAppleWorm()
 }
 
 function storyCat() {
-  
+  // firstOption -> storyKoiPower(2)
+  // secondOption -> storyCatGameOver()
 }
 
 function storyGoblinGameOver() {
-  
+  // Play again?
+  // firstOption -> Yes
+  // secondOption -> No
 }
 
 function storyPowerClover() {
-  
+  // firstOption -> storyWateringDevice()
+  // secondOption -> storySneakySnail()
 }
 
 function storyAppleWorm() {
-  
+  // firstOption -> storySneakySnail()
+  // secondOption -> storySuccessGarden()
 }
 
 function storyCatGameOver() {
-  
+  // Play again?
+  // firstOption -> Yes
+  // secondOption -> No
 }
 
 function storyWateringDevice() {
-  
+  // firstOption -> storySuccessGarden()
+  // secondOption -> storyGreenhouse()
 }
 
 function storySneakySnail() {
-  
+  // firstOption -> storyGreenhouse()
+  // secondOption -> storyPoisonGameOver()
 }
 
 function storySuccessGarden() {
-  
+  // Play again?
+  // firstOption -> Yes
+  // secondOption -> No
 }
 
 function storyPoisonGameOver() {
-  
+  // Play again?
+  // firstOption -> Yes
+  // secondOption -> No
 }
 
 function storyGreenhouse() {
-  
+  // firstOption -> storyPoisonGameOver()
+  // secondOption -> storySuccessGarden()
 }
 
 function storyGreenhouseGameOver() {
-
+  // Play again?
+  // firstOption -> Yes
+  // secondOption -> No
 }
 
