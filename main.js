@@ -1,6 +1,7 @@
 //Sätt upp projektet likt dagens uppgift och skapa en funktion för varje "scen" i er berättelse som byter ut texten 
 //på sidan och vad som händer när man klickar på knapparna - dvs vilken scen som ska visas härnäst.
 window.addEventListener("DOMContentLoaded", main); 
+const power = "";
 
 /** This is the starting point for the program */
 function main() {
@@ -14,5 +15,69 @@ function setupEventListeners() {
   //burgerMenu.onclick = toggleHeaderOpen;
   //zoom.onclick = toggleZoom;
   // sätt upp fler knappar så dom klickbara.
+}
+
+function storyBricksStart() {
+  
+}
+
+function storyDragonflyPower() {
+  
+}
+
+function storyGoblinPrank() {
+  
+}
+
+function storyMudSlope() {
+  
+}
+
+function storyKoiPower() {
+  
+}
+
+function storyCat() {
+  
+}
+
+function storyGoblinGameOver() {
+  
+}
+
+function storyPowerClover() {
+  
+}
+
+function storyAppleWorm() {
+  
+}
+
+function storyCatGameOver() {
+  
+}
+
+function storyWateringDevice() {
+  
+}
+
+function storySneakySnail() {
+  
+}
+
+function storySuccessGarden() {
+  
+}
+
+function storyPoisonGameOver() {
+  
+}
+
+function storyGreenhouse() {
+  
+}
+
+function storyGreenhouseGameOver() {
+
 }
 
