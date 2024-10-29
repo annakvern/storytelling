@@ -23,6 +23,7 @@ function storyBricksStart() {
 }
 
 function storyDragonflyPower() {
+  // add power flying
   // firstOption -> storyMudSlope()
   // secondOption -> storyKoiPower(1)
 }
@@ -38,6 +39,7 @@ function storyMudSlope() {
 }
 
 function storyKoiPower() {
+  // add power breatheUnderWater
   // firstOption -> storyPowerClover()
   // secondOption -> storyAppleWorm()
 }
@@ -54,11 +56,14 @@ function storyGoblinGameOver() {
 }
 
 function storyPowerClover() {
+  // remove power flying
+  // add power fourLeafClover
   // firstOption -> storyWateringDevice()
   // secondOption -> storySneakySnail()
 }
 
 function storyAppleWorm() {
+  // remove power breatheUnderWater
   // firstOption -> storySneakySnail()
   // secondOption -> storySuccessGarden()
 }
@@ -70,6 +75,7 @@ function storyCatGameOver() {
 }
 
 function storyWateringDevice() {
+  // remove power breatheUnderWater
   // firstOption -> storySuccessGarden()
   // secondOption -> storyGreenhouse()
 }
